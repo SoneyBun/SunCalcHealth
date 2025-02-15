@@ -1,4 +1,4 @@
-# BMI Calculator
+# BMI Calculator & Height Estimater
 
 This project is a simple Java application that calculates your **Body Mass Index (BMI)** and determines your **weight class** based on your height and weight.
 
@@ -10,6 +10,10 @@ This project is a simple Java application that calculates your **Body Mass Index
   - **Overweight**: 25 ≤ BMI < 30
   - **Obese**: BMI ≥ 30
 - Opens a browser link to a unit conversion tool for additional assistance.
+
+- --
+- Estimates your height
+ - (Mothers Height + Fathers Height ± (5 or 13 depending on measurement system))/2
 
 ## How to Use
 1. **Run the program**: Use your favorite Java IDE or the command line to execute the `Main` class.
