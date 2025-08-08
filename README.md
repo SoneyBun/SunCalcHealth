@@ -1,3 +1,5 @@
+# 🚨 REPOSITORY IS OUTDATED AND REPLACED WITH [SUNCALC V3](https://github.com/SoneyBun/SunCalc-V3)
+
 # BMI & Height Estimation Calculator
 
 ## Overview
